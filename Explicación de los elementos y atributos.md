@@ -67,4 +67,63 @@ Aquí tienes la lista numerada con subnumeración para los atributos, junto con 
 
 27. footer: Define el pie de página del documento o sección.
 
-Cada uno de estos elementos y atributos tiene un propósito específico en la estructura y funcionalidad de una página web HTML.
+28. div: Define una división o sección en un documento HTML.
+    28.1. class: Especifica una o más clases para un elemento.
+
+29. hr: Crea una línea horizontal para separar contenido.
+
+30. article: Representa una composición independiente en un documento.
+
+31. link: Define la relación entre el documento actual y un recurso externo.
+    31.1. href: Especifica la ubicación del recurso enlazado.
+    31.2. rel: Especifica la relación entre el documento actual y el recurso enlazado.
+
+32. style: Define información de estilo para un documento o parte de un documento.
+
+33. :visited: Pseudo-clase que selecciona enlaces que el usuario ya ha visitado.
+
+34. :hover: Pseudo-clase que se activa cuando el usuario pasa el cursor sobre un elemento.
+
+35. :active: Pseudo-clase que se activa cuando un elemento está siendo activado por el usuario.
+
+Atributos adicionales:
+
+36. meta
+    36.1. name: Especifica un nombre para la información/valor del metadato.
+    36.2. content: Especifica el valor asociado con el atributo name o http-equiv.
+
+Propiedades CSS (consideradas como "atributos" en el contexto de esta lista):
+
+37. background-image: Establece una o más imágenes de fondo para un elemento.
+
+38. font-family: Especifica la fuente para el texto.
+
+39. padding: Establece el espacio de relleno en todos los lados de un elemento.
+
+40. font-size: Especifica el tamaño de la fuente.
+
+41. margin-top: Establece el margen superior de un elemento.
+
+42. margin-bottom: Establece el margen inferior de un elemento.
+
+43. text-align: Especifica la alineación horizontal del texto.
+
+44. width: Establece el ancho de un elemento.
+
+45. background-color: Establece el color de fondo de un elemento.
+
+46. margin-left: Establece el margen izquierdo de un elemento.
+
+47. margin-right: Establece el margen derecho de un elemento.
+
+48. max-width: Establece el ancho máximo de un elemento.
+
+49. display: Especifica el tipo de caja de renderizado para un elemento.
+
+50. height: Establece la altura de un elemento.
+
+51. border-color: Establece el color del borde de un elemento.
+
+52. font-style: Especifica el estilo de fuente para el texto.
+
+Esta lista complementa la anterior, añadiendo los nuevos elementos, atributos y propiedades CSS encontrados en los archivos HTML y CSS proporcionados.
